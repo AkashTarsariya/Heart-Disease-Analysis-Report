@@ -31,7 +31,7 @@ The Heart Disease Analysis Report provides data-driven insights into patient hea
 
 📌 Background created in Canva
 
-# 📊 Dataset Credit: Heart Failure Clinical Records – UCI Machine Learning Repository
+# 📊 Dataset Download from Here: Heart Failure Clinical Records
 
 Authors: Davide Chicco and Giuseppe Jurman
 Source: https://archive.ics.uci.edu/dataset/519/heart+failure+clinical+records
@@ -43,10 +43,13 @@ Image by Freepik – https://www.freepik.com/free-psd/3d-rendering-realistic-hea
 # 🎨 Icon Credit:
 
 Icon by Flaticon - https://www.flaticon.com/
+
 Author: Akash Tarsariya
+
 📌 https://www.flaticon.com/free-icon/person_13482183
+
 📌 https://www.flaticon.com/free-icon/avatar_13482193
 
 # 📊 Report Thubnail
 
-![Thumbnail](https://github.com/user-attachments/assets/9ebd5db2-7ac5-4011-a3e3-e9e6e60f4927)
+![Thumbnail](https://github.com/AkashTarsariya/Heart-Disease-Analysis-Report/blob/main/Heart%20Disease%20Report%20Dashbord%20Image.png)
